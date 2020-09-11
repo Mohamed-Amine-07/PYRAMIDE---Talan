@@ -6,7 +6,7 @@ Comme montré dans l'exemple ci-haut, le programme devra afficher dans le  conso
 
 REmarques importantes :
 
-  1--> Si l'utilisateur rentre un nombre supérieur à 25 , inferieure a 1 ou n'imoprte quel charactere hors de l'intervalle [1 .. 25] il sera informee que son entree est invalide .!!!
+  1--> Si l'utilisateur rentre un nombre supérieur à 25 , inferieure a 1 ou n'imoprte quel charactere hors de l'intervalle [1 .. 25] il sera informee que son entree est invalide !!!
 
   2--> si l'utilisateur rentre un nombre reel x et pas un entier dans l'intervalle [1 .. 25]  la valeur va etre majoree  et le programme va afficher une pyramide de nombre d'etages egale a l'entier superieur et le plus proche de x sauf si x est tres tres tres proche de l'entier inferieur ( apartir de 15 zeros apres la virgule ) !!!
 
