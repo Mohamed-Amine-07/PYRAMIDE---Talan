@@ -3,7 +3,7 @@ Ce projet consiste a demander à l'utilisateur le nombre d'étages de sa pyramid
  le programme devra afficher dans le  console une pyramide de la hauteur choisie. 
 
 
-REmarques importantes :
+REmarques importantes !!!
 
   1--> Si l'utilisateur rentre un nombre supérieur à 25 , inferieure a 1 ou n'imoprte quel charactere hors de l'intervalle [1 .. 25] il sera informee que son entree est invalide !!!
 
