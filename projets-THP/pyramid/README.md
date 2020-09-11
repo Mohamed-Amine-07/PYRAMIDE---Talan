@@ -1,7 +1,6 @@
 Ce projet consiste a demander à l'utilisateur le nombre d'étages de sa pyramide. Si l'utilisateur rentre un nombre supérieur à 25, le programme ne déssinera pas la pyramide.
 
-Comme montré dans l'exemple ci-haut, le programme devra afficher dans le  console une pyramide de la hauteur choisie. 
-
+ le programme devra afficher dans le  console une pyramide de la hauteur choisie. 
 
 
 REmarques importantes :
